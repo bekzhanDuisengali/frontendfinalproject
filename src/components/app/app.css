@@ -1,0 +1,10 @@
+.app {
+    margin: 0 auto;
+    max-width: 1000px;
+  }
+.app-filter-block{
+  background-color: #3d5a80;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
